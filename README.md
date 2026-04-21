@@ -107,15 +107,8 @@ The application:
 
 ## Screenshot
 
-*(Optional but recommended)*
+<img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/40ebe52d-4d6b-47f4-a329-8df1019e9619" />
 
-Add a file named `screenshot.png` in your project folder and include:
-
-```<img width="1915" height="906" alt="QuizWebApp" src="https://github.com/user-attachments/assets/fe229809-4e6e-4cb6-ae7f-1885a8d6b7e2" />
-
-```
-
----
 
 ## Conclusion
 
