@@ -107,7 +107,8 @@ The application:
 
 ## Screenshot
 
-<img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/40ebe52d-4d6b-47f4-a329-8df1019e9619" />
+<img width="1916" height="985" alt="image" src="https://github.com/user-attachments/assets/b165ea04-4b8f-43de-8954-018cddb6576c" />
+
 
 
 ## Conclusion
