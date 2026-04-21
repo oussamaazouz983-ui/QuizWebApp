@@ -1,0 +1,3 @@
+2026-04-21 16:58:36.5093|DEBUG|Program|location of wsfscservice is: C:\Users\laszl\.nuget\packages\websharper.fsharp\10.0.0.652\tools\net10.0\win-x64 (server side)
+2026-04-21 16:58:36.5093|DEBUG|Program|pipename is: d5456eb3707108fde5495c2ebe99c452 (server side)
+2026-04-21 16:58:36.5093|DEBUG|Program|Compiling C:\Users\laszl\QuizWebApp\QuizWebApp.fsproj

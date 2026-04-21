@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="QuizWebApp">
+    <resource name="FSharpSignatureData.QuizWebApp" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.QuizWebApp" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.QuizWebApp" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.QuizWebApp" action="remove"></resource>
+    <resource name="FSharpOptimizationData.QuizWebApp" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.QuizWebApp" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.QuizWebApp" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.QuizWebApp" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.QuizWebApp" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.QuizWebApp" action="remove"></resource>
+  </assembly>
+</linker>

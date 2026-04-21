@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "9sVJqt5hGJ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laszl\\QuizWebApp\\QuizWebApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laszl\\.nuget\\packages\\fsharp.core\\10.0.101\\fsharp.core.10.0.101.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\htmlagilitypack\\1.11.0\\htmlagilitypack.1.11.0.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.2\\system.configuration.configurationmanager.6.0.2.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\system.security.permissions\\6.0.1\\system.security.permissions.6.0.1.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\websharper\\10.0.0.652\\websharper.10.0.0.652.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\websharper.aspnetcore\\10.0.0.652\\websharper.aspnetcore.10.0.0.652.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\websharper.fsharp\\10.0.0.652\\websharper.fsharp.10.0.0.652.nupkg.sha512",
+    "C:\\Users\\laszl\\.nuget\\packages\\websharper.ui\\10.0.0.652\\websharper.ui.10.0.0.652.nupkg.sha512"
+  ],
+  "logs": []
+}

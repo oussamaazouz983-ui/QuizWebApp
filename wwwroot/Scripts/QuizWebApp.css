@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Main container */
+#main {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  width: 400px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+/* Title */
+h1 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* Question */
+h2 {
+  margin: 20px 0;
+  color: #444;
+}
+
+/* Progress text */
+h3 {
+  margin: 10px 0;
+  color: #666;
+}
+
+/* Buttons */
+button {
+  width: 100%;
+  padding: 12px;
+  margin: 6px 0;
+  border: none;
+  border-radius: 8px;
+  background: #4facfe;
+  color: white;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+/* Hover effect */
+button:hover {
+  background: #00c6ff;
+  transform: scale(1.03);
+}
+
+/* Feedback text */
+p {
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+/* Correct */
+p:contains("Correct") {
+  color: green;
+}
+
+/* Wrong */
+p:contains("Wrong") {
+  color: red;
+}
