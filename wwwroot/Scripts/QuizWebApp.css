@@ -30,7 +30,7 @@ h2 {
   color: #444;
 }
 
-/* Progress text */
+/* Progress */
 h3 {
   margin: 10px 0;
   color: #666;
@@ -49,24 +49,14 @@ button {
   transition: 0.2s;
 }
 
-/* Hover effect */
 button:hover {
   background: #00c6ff;
   transform: scale(1.03);
 }
 
-/* Feedback text */
+/* Feedback */
 p {
   font-weight: bold;
   margin: 10px 0;
-}
-
-/* Correct */
-p:contains("Correct") {
-  color: green;
-}
-
-/* Wrong */
-p:contains("Wrong") {
-  color: red;
+  color: #333;
 }
